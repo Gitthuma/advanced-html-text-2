@@ -9,3 +9,5 @@ In this task we want you to add some semantics to the provided HTML as follows:
 -Semantically associate machine-readable dates with the dates in the text.
 
 -Use subscript and superscript to provide correct semantics for the chemical formulae and dates, and make them display correctly.
+
+Live web: https://gitthuma.github.io/advanced-html-text-2/
